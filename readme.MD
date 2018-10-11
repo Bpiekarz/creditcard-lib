@@ -7,3 +7,9 @@ Hello Java and Git
     -if card not blocked
     -can afford
 - repay debt
+
+tech requirement
+----------------
+
+- java >=8
+- maven
